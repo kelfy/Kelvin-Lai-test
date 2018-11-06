@@ -1,4 +1,5 @@
-This project is created with ReactJs. 
+This is my test script created with ReactJs. 
+Aim for showing products from Json code sort it in different ways
 
 Instruction
 -----------
